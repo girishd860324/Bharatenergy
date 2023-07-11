@@ -15,10 +15,10 @@
             <div class="menu">
                 <ul>
                     <li><a href="#">HOME</a></li>
-                    <li><a href="#">ABOUT</a></li>
+                    <li><a href="Aboutus.php">ABOUT US</a></li>
                     <li><a href="#">SERVICE</a></li>
                     <li><a href="#">DESIGN</a></li>
-                    <li><a href="#">CONTACT</a></li>
+                    <li><a href="contact.php">CONTACT</a></li>
                 </ul>
             </div>
 
@@ -34,16 +34,16 @@
                  expedita atque eveniet <br> quis nesciunt. Quos nulla vero consequuntur, fugit nemo ad delectus 
                 <br> a quae totam ipsa illum minus laudantium?</p>
 
-                <button class="cn"><a href="#">JOIN US</a></button>
+                <button class="cn"><a href="register.php">JOIN US</a></button>
 
                 <div class="form">
                     <h2>Login Here</h2>
                     <input type="email" name="email" placeholder="Enter Email Here">
                     <input type="password" name="" placeholder="Enter Password Here">
-                    <button class="btnn"><a href="#">Login</a></button>
+                    <button class="btnn"><a href="login.php">Login</a></button>
 
                     <p class="link">Don't have an account<br>
-                    <a href="#">Sign up </a> here</a></p>
+                    <a href="register.php">Sign up </a> here</a></p>
                     <p class="liw">Log in with</p>
 
                     <div class="icons">
